@@ -35,7 +35,12 @@ const vagas = [
     modalidade: 'clt',
     salarioMin: 45000,
     salarioMax: 65000,
-    requisitos: ['MUITO_FORTE', 'MANEJAR_ARMAS', '5_ANOS_EXPERIÊNCIA', 'FORMAÇÃO_VETERINÁRIA']
+    requisitos: [
+      'MUITO_FORTE',
+      'MANEJAR_ARMAS',
+      '5_ANOS_EXPERIÊNCIA',
+      'FORMAÇÃO_VETERINÁRIA'
+    ]
   },
   {
     id: 3,
@@ -55,7 +60,12 @@ const vagas = [
     modalidade: 'clt',
     salarioMin: 400000,
     salarioMax: 500000,
-    requisitos: ['Física_Teorica', 'Tecnologia_Inter-estelar', 'conhecimentos_de_5ª_matéria', 'QI_acima_de_200']
+    requisitos: [
+      'Física_Teorica',
+      'Tecnologia_Inter-estelar',
+      'conhecimentos_de_5ª_matéria',
+      'QI_acima_de_200'
+    ]
   },
   {
     id: 5,

@@ -2,7 +2,7 @@ import { S } from './styles'
 
 const Cabecalho = () => (
   <S.Header>
-    <h1>EBAC Jobs</h1>
+    <h1>Jobs Line</h1>
   </S.Header>
 )
 
